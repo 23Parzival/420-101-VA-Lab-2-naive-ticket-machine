@@ -111,4 +111,9 @@
 
 40. # price cents
 
+42. They have different outputs because their price is not the same.
+
+43. Yes it prints the same thing. %d displays the price with a decimal and %n skips a line.
+
+
 
