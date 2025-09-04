@@ -89,7 +89,7 @@
 32. Yes, it is a mutator. It could be demonstrated with a student object 
     by calling a getCredits method showing that the amount of credits has changed.
 
-33s. ```
+33. ```
     /**
     * Reduce price by the given amount.
     */
@@ -99,5 +99,16 @@
     }
     ```
     
+34. `public void currentAge(int age)`
 
-    
+35. `public void isAlive(boolean alive)`
+
+36. The price is now zero even thought 25 was inputed.
+
+37. My cat has green eyes.
+
+39. #priceccents
+
+40. # price cents
+
+
