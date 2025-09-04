@@ -65,4 +65,39 @@
     
 24. "What is my current balance in the ticket machine?"
 
+25. No it doesn't. It means that the name is only usefull as a description
+    and doesnt actually change what the get method is doing.
+    
+27. "not a statement"
 
+28. printTicket does not return a statement therefore its return statement
+    is void.
+
+29. No because they are setters not getters, they are called to set a value
+    not to return one.
+    
+31. ```
+    /**
+    * Increase score by the given number of points.
+    */
+    public void increaseScore(int points)
+    {
+    score = score + points;
+    }
+    ```
+    
+32. Yes, it is a mutator. It could be demonstrated with a student object 
+    by calling a getCredits method showing that the amount of credits has changed.
+
+33s. ```
+    /**
+    * Reduce price by the given amount.
+    */
+    public void discount(int amount)
+    {
+    price = price - amount;
+    }
+    ```
+    
+
+    
