@@ -33,5 +33,25 @@
 11. It does not have a class identifier and 
     it contains parameters`(int cost)`.
     
+12. Int, String, String.
+
+13. alive, tutor, game.
+
+14. 2.12: Student and Server. 2.13: Person and Game.
+
+15. Yes it does matter. Yes, it is either red, signaling an error or grey
+    if it is okay.
+    
+16. Yes.
+
+17. `private int status;`
+
+18. Student.
+
+19. Two, String and double.
+
+20. Yes. Strings (words/sentences) and doubles (numbers with decimals).
+    Their names are title and price respectively.
+    
 
     
