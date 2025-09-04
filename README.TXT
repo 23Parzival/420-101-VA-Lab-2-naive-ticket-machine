@@ -53,5 +53,16 @@
 20. Yes. Strings (words/sentences) and doubles (numbers with decimals).
     Their names are title and price respectively.
     
-
+21. ```public Pet(String petsName)
+    {
+     name = petsName;   
+    }```
     
+22. `public Date (String month, int day, int year) { ... }`
+
+23. When the get method is used, a different field is called. In the body,
+    a different field is returned. 
+    
+24. "What is my current balance in the ticket machine?"
+
+
