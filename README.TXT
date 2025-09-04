@@ -1,14 +1,6 @@
-Project: naive-ticket-machine
-Authors: David Barnes and Michael Kölling
 
-This project is part of the material for the book
+### Answers to questions of part II.
 
-   Objects First with Java - A Practical Introduction using BlueJ
-   Seventh edition
-   David J. Barnes and Michael Kölling
-   Pearson Education
+# Part II:
 
-It is discussed in chapter 2.
 
-Purpose of project: To illustrate the basics of fields, constructors, and methods.
-How to start this project: Create one or more TicketMachine objects.
