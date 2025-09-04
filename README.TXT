@@ -115,5 +115,6 @@
 
 43. Yes it prints the same thing. %d displays the price with a decimal and %n skips a line.
 
+44. It now only asks for a name and not a price when a new object is created.
 
-
+46. It does not need any parameters. It is a mutator.
