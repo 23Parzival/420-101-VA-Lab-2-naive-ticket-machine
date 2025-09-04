@@ -18,3 +18,20 @@
    has red lines all over it. It says, "<identifier> expected", this explains
    what is wrong to someone who knows what should be there but to a beginner
    it is slightly unspecific.
+   
+10. public class TicketMachine
+    public TicketMachine(int cost)
+    price = cost;
+    balance = 0;
+    total = 0;
+    public int getPrice()
+    return price;
+    public int getBalance()
+    public void insertMoney(int amount)
+    public void printTicket()
+    
+11. It does not have a class identifier and 
+    it contains parameters`(int cost)`.
+    
+
+    
