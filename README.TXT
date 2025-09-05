@@ -113,7 +113,7 @@
 
 42. They have different outputs because their price is not the same.
 
-43. Yes it prints the same thing. %d displays the price with a decimal and %n skips a line.
+43. Yes it prints the same thing. %d inserts the next argument as an integer and %n skips a line.
 
 44. It now only asks for a name and not a price when a new object is created.
 
