@@ -19,16 +19,20 @@
    what is wrong to someone who knows what should be there but to a beginner
    it is slightly unspecific.
    
-10. public class TicketMachine
-    public TicketMachine(int cost)
-    price = cost;
-    balance = 0;
-    total = 0;
-    public int getPrice()
-    return price;
-    public int getBalance()
-    public void insertMoney(int amount)
-    public void printTicket()
+10. public TicketMachine() --> Constructor
+    public TicketMachine(int cost) --> Constructor
+    private int price; --> Field
+    private int balance; --> Field
+    private int total; --> Field
+    public int getPrice() --> Method
+    public int getAmount() --> Method
+    public int getTotal() --> Method
+    public void prompt() --> Method
+    public void showPrice() --> Method
+    public void empty() --> Method
+    public void insertMoney(int amount) --> Method
+    public void printTicket() --> Method
+   
     
 11. It does not have a class identifier and 
     it contains parameters`(int cost)`.
